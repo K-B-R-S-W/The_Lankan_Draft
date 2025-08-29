@@ -1,0 +1,26 @@
+# Core requirements for The Lankan Draft
+
+# Flask Web Framework - for API server
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Data Processing - for handling CSV files and data manipulation
+pandas==2.1.4
+numpy==1.24.3
+
+# Machine Learning - for loading and using trained models
+scikit-learn==1.3.2
+joblib==1.3.2
+
+# Standard library modules used (no installation needed):
+# - json (built-in)
+# - os (built-in) 
+# - subprocess (built-in)
+
+# Installation instructions:
+# pip install -r requirements.txt
+
+# For development/training notebooks (optional):
+# jupyter==1.0.0
+# matplotlib==3.8.2
+# seaborn==0.13.0
