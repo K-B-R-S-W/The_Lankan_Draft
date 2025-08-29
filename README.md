@@ -10,8 +10,6 @@
 
 **A sophisticated machine learning-based web application to analyze player performance and assist in selecting the optimal Sri Lankan cricket squad across T20, ODI, and Test formats.**
 
-[🚀 Demo](#-demo) • [📋 Features](#-features) • [⚡ Quick Start](#-quick-start) • [🔧 Installation](#-installation) • [📖 Usage](#-usage)
-
 </div>
 
 ---
